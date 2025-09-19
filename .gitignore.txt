@@ -1,0 +1,36 @@
+# Unity generated folders (do NOT commit these)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Visual Studio / Rider files
+.vs/
+.vscode/
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.pidb
+*.sln
+*.unityproj
+
+# Build output
+*.apk
+*.aab
+
+# JetBrains Rider
+.idea/
+
+# Unity cache server / Crash dumps
+Cache/
+crashlytics/
+
+# Keep Unity metadata files (.meta) and ProjectSettings/ and Assets/ committed
